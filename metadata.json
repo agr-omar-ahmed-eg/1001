@@ -1,0 +1,6 @@
+{
+  "name": "Waraqti Google Form Creator",
+  "description": "تطبيق ويب يتيح للمستخدمين رفع صور الأسئلة أو إدخالها نصياً وتحويلها تلقائياً إلى نماذج Google Forms باستخدام الذكاء الاصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
